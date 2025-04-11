@@ -1,3 +1,3 @@
 # New project
 This project was created by local system.
-created by yuvraj singh
+created by Yuvraj singh.
